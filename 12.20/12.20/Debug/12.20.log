@@ -1,0 +1,4 @@
+﻿  12.20.cpp
+c:\users\cathy\source\repos\12.20\12.20\12.20.cpp(14): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+c:\users\cathy\source\repos\12.20\12.20\12.20.cpp(15): warning C4018: '<': signed/unsigned mismatch
+  12.20.vcxproj -> C:\Users\cathy\source\repos\12.20\Debug\12.20.exe
